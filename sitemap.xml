@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://linfly.com/posts/46362.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://linfly.com/404.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://linfly.com/about/index.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://linfly.com/archives/index.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://linfly.com/categories/index.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://linfly.com/contact/index.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://linfly.com/friends/index.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://linfly.com/tags/index.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://linfly.com/</loc>
+    <lastmod>2021-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://linfly.com/tags/%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2021-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://linfly.com/categories/%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2021-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>

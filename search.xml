@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>2021新年伊始</title>
+      <link href="posts/46362.html"/>
+      <url>posts/46362.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前序"><a href="#前序" class="headerlink" title="前序"></a>前序</h2><blockquote><p>很久很久以前就想写博客，在CSDN和cnblog上都创建了账号，但热度都不过2~3天。原因不是因为没时间写，而是不知道该写什么：</p><ul><li>基础的不想写，难得写不出来</li><li>担心没人看，出错被喷</li><li>同类型的文章有很多，没必要了</li><li>…</li></ul><p>你有这样的感觉么？</p></blockquote><p>任时光匆匆，又是新的一年。回首过去，一些人，一些事，在脑海里开始模糊，心中感慨万千…</p><p>时间能够淡化记忆，我便将这些记忆刻入博客中。</p><p>N年后的我应该会感激自己今时的决定吧！<span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">😄</span></p><h2 id="回首2020"><a href="#回首2020" class="headerlink" title="回首2020"></a>回首2020</h2><h3 id="工作上"><a href="#工作上" class="headerlink" title="工作上"></a>工作上</h3><ul><li>从0到1系统研发：数据质量、机器学习、权限中心；</li><li>整合建设平台2.0：深度集成即席查询、调度系统、元数据、实时任务管控、数据质量、机器学习、权限中心、监控分析系统，推出统一大数据开发平台；</li><li>开启团队管理之路：从带2个人的项目开发负责人，转化为带10人的平台研发负责人；</li></ul><h3 id="生活上"><a href="#生活上" class="headerlink" title="生活上"></a>生活上</h3><ul><li>娃从1岁半长到2岁半，平安健康（妈妈的功劳），有娃真好；</li><li>一如既往的省吃检用，还是存不到钱（钱少事多）；</li></ul><h2 id="展望2021"><a href="#展望2021" class="headerlink" title="展望2021"></a>展望2021</h2><ul><li>至少一个月一篇保质保量的文章；</li><li>源码解析一个开源软件；</li><li>根据自己这几年的摸爬打滚编写“大数据平台建设和研发之路”系列栏目；</li><li>学会给团队成员谈绩效；</li><li>努力挣钱挣钱挣钱；</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随手记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
